@@ -1,0 +1,46 @@
+    html, body {
+      margin: 0; padding: 0; width: 100vw; height: 100vh; font-family: Arial, sans-serif;
+      background-color: #111; color: #fff; display: flex; overflow: hidden;
+    }
+    .main {
+      flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; padding: 2rem;
+    }
+    .controls { width: 100%; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: flex-end; margin-bottom: 1rem; }
+    .side { width: 25%; min-width: 250px; background: #222; padding: 1rem; overflow-y: auto; height: 100vh; }
+    .word { font-size: 2.5rem; margin-bottom: 1rem; text-align: center; }
+    .speak-btn, .start-btn, .lang-select, .stop-btn, .restart-btn {
+      padding: 10px 20px; font-size: 18px; background: #0af; border: none; border-radius: 8px; color: #fff; cursor: pointer; margin-top: 0;
+    }
+    .star-btn { background: none; border: none; font-size: 2rem; vertical-align: middle; cursor: pointer; color: gold; margin-left: 10px;}
+    .star-btn.not-fav { color: #aaa; }
+    .stop-btn { background-color: #c0392b; } .stop-btn:hover { background-color: #e74c3c; }
+    .restart-btn { background-color: #27ae60; } .restart-btn:hover { background-color: #2ecc71; }
+    .lang-select { background: #333; color: white; font-size: 16px; padding: 8px; border-radius: 6px; }
+    .feedback { margin-top: 1rem; font-size: 1.3rem; font-weight: bold; text-align: center; min-height: 2.5rem; }
+    .pulse { width: 40px; height: 40px; border-radius: 50%; background: #0af; animation: pulse 1.5s infinite; margin-top: 1rem; }
+    @keyframes pulse { 0%{transform:scale(1);opacity:1;}50%{transform:scale(1.4);opacity:.5;}100%{transform:scale(1);opacity:1;} }
+    .hidden { display: none !important; }
+    .mistake-list h3 { margin-top: 0; }
+    .mistake-item { margin-bottom: 5px; }
+    #progressBarContainer { width: 100%; margin: 10px 0 16px 0;}
+    #progressBar { height: 16px; background: #222; border-radius: 9px; width: 100%; margin-bottom: 2px; overflow: hidden; }
+    #progressBarFill { height: 100%; width: 0%; background: #09f; border-radius: 9px; transition: width 0.5s; }
+    #progressText { text-align: right; font-size: 1rem; margin-top: 2px; }
+    #dictionaryModal { position: fixed; left:0; top:0; width:100vw; height:100vh; background: rgba(0,0,0,0.88); z-index: 1000; display: flex; align-items: center; justify-content: center; }
+    #dictionaryModal .modal-inner { background: #fff; color: #222; padding: 2rem; border-radius: 2rem; max-width: 90vw; max-height: 80vh; overflow: auto; }
+    .light-mode { background: #fff !important; color: #222 !important; }
+    .light-mode .main, .light-mode .side { background: #fafafa !important; color: #222 !important; }
+    .light-mode .word { color: #0af; }
+    .light-mode .lang-select { background: #fff; color: #111; }
+    .light-mode #dictionaryModal .modal-inner { background: #f6f6f6; color: #111; }
+    .badge { font-size: 2rem; margin-bottom: 12px; }
+    /* Responsive */
+    @media (max-width: 900px) { .side { display: none; } .main{ width:100vw;}}
+    @media (max-width: 700px) {
+      .main{padding:8px;}
+      .controls{font-size:1rem;}
+      .word{font-size:1.5rem;}
+      .speak-btn, .start-btn, .lang-select, .stop-btn, .restart-btn {font-size:1rem;}
+    }
+    .motivator {font-size:2.2rem;text-align:center;animation:bounceMot 0.7s;}
+    @keyframes bounceMot {0%{transform:scale(0.9);}50%{transform:scale(1.3);}100%{transform:scale(1);}}

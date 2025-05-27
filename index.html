@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inglizcha-O‘zbekcha Super Vocab Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <div class="controls">
+      <label for="level">CEFR daraja: </label>
+      <select id="level" class="lang-select">
+        <option value="A1">A1 (Beginner)</option>
+        <option value="A2">A2 (Elementary)</option>
+        <option value="B1">B1 (Pre-Intermediate)</option>
+        <option value="B2">B2 (Intermediate)</option>
+        <option value="C1">C1 (Advanced)</option>
+        <option value="C2">C2 (Proficient)</option>
+      </select>
+      <label for="langMode">So‘rash tili: </label>
+      <select id="langMode" class="lang-select">
+        <option value="uz">O‘zbekcha</option>
+        <option value="en">Inglizcha</option>
+      </select>
+      <button id="shuffleBtn" class="speak-btn" title="Aralashtirish">🔀 Shuffle</button>
+      <button id="mistakesBtn" class="speak-btn" title="Xatolar bilan mashq">❌ Xatolarni mashq qilish</button>
+      <button id="favoriteBtn" class="speak-btn" title="Yoqtirganlar">⭐ Yoqtirganlar</button>
+      <button id="statsBtn" class="speak-btn" title="Statistika">📊 Statistika</button>
+      <button id="dictionaryBtn" class="speak-btn" title="Lug‘at">📖 Lug‘at</button>
+      <button id="toggleTheme" class="speak-btn" style="background:#444;" title="Tungi/Kunduzgi rejim">🌙/☀️</button>
+    </div>
+    <div id="startScreen">
+      <button class="start-btn" onclick="startSession()">Boshlash</button>
+    </div>
+    <div id="quizScreen" class="hidden">
+      <div id="progressBarContainer">
+        <div id="progressBar">
+          <div id="progressBarFill"></div>
+        </div>
+        <div id="progressText">0 / 0 (0%)</div>
+      </div>
+      <div class="word" id="currentWord">
+        So‘z yuklanmoqda...
+        <button id="favStar" class="star-btn not-fav" title="Yoqtirganlar uchun belgilash">★</button>
+      </div>
+      <div class="pulse" id="pulse" style="display: none;"></div>
+      <div class="feedback" id="feedback"></div>
+      <div id="motivator" class="motivator" style="display:none;"></div>
+      <button class="speak-btn" id="recordBtn" style="margin-top:12px;">🎙️ Ovozini yozish va eshitish</button>
+      <audio id="userAudio" controls style="display:none;width:100%;margin-top:8px;"></audio>
+      <button class="stop-btn" onclick="stopSession()">To‘xtatish</button>
+    </div>
+    <div id="resultScreen" class="hidden">
+      <div id="medalBadge" class="badge"></div>
+      <h2>Natija</h2>
+      <div id="finalScore"></div>
+      <button class="restart-btn" onclick="startSession()">Qayta boshlash</button>
+      <button class="restart-btn" onclick="reviewMistakes()">Xatolarni qayta mashq qilish</button>
+    </div>
+  </div>
+  <div class="side">
+    <div class="mistake-list">
+      <h3>❌ Xatolar</h3>
+      <div id="mistakeLog"></div>
+    </div>
+  </div>
+
+  <!-- Modal windows -->
+  <div id="dictionaryModal" class="hidden">
+    <div class="modal-inner">
+      <div id="dictionaryList"></div>
+      <button id="closeDictionaryBtn" class="restart-btn">Yopish</button>
+    </div>
+  </div>
+  <div id="statsModal" class="hidden">
+    <div class="modal-inner">
+      <div id="statsList"></div>
+      <button id="closeStatsBtn" class="restart-btn">Yopish</button>
+    </div>
+  </div>
+  <div id="favoritesModal" class="hidden">
+    <div class="modal-inner">
+      <div id="favoritesList"></div>
+      <button id="closeFavoritesBtn" class="restart-btn">Yopish</button>
+    </div>
+  </div>
+  <!-- Notification sound -->
+  <audio id="notifSound" src="https://cdn.pixabay.com/audio/2022/07/26/audio_124bfa4f82.mp3" preload="auto"></audio>
+
+
+ <script src="app.js"></script>
+</body>
+</html>

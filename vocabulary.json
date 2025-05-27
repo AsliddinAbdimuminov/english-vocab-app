@@ -1,0 +1,4009 @@
+{
+  "A1":[
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "eng": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "eng": "village",
+      "uz": "qishloq"
+    },
+    {
+      "eng": "water",
+      "uz": "suv"
+    },
+    {
+      "eng": "x-ray",
+      "uz": "rentgen"
+    },
+    {
+      "eng": "yellow",
+      "uz": "sariq"
+    },
+    {
+      "eng": "zebra",
+      "uz": "zebra"
+    },
+    {
+      "eng": "bag",
+      "uz": "sumka"
+    },
+    {
+      "eng": "car",
+      "uz": "mashina"
+    },
+    {
+      "eng": "door",
+      "uz": "eshik"
+    },
+    {
+      "eng": "ear",
+      "uz": "quloq"
+    },
+    {
+      "eng": "father",
+      "uz": "ota"
+    },
+    {
+      "eng": "game",
+      "uz": "o'yin"
+    },
+    {
+      "eng": "hat",
+      "uz": "shapka"
+    },
+    {
+      "eng": "island",
+      "uz": "orol"
+    },
+    {
+      "eng": "jacket",
+      "uz": "kurta"
+    },
+    {
+      "eng": "kangaroo",
+      "uz": "kanguru"
+    },
+    {
+      "eng": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "eng": "mother",
+      "uz": "ona"
+    },
+    {
+      "eng": "nose",
+      "uz": "burun"
+    },
+    {
+      "eng": "owl",
+      "uz": "boyo'g'li"
+    },
+    {
+      "eng": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "eng": "rabbit",
+      "uz": "quyon"
+    },
+    {
+      "eng": "snake",
+      "uz": "ilon"
+    },
+    {
+      "eng": "table",
+      "uz": "stol"
+    },
+    {
+      "eng": "uncle",
+      "uz": "amaki"
+    },
+    {
+      "eng": "van",
+      "uz": "yuk mashina"
+    },
+    {
+      "eng": "window",
+      "uz": "deraza"
+    },
+    {
+      "eng": "yogurt",
+      "uz": "yogurt"
+    },
+    {
+      "eng": "zoo",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "eng": "apple",
+      "uz": "olma"
+    },
+    {
+      "eng": "book",
+      "uz": "kitob"
+    },
+    {
+      "eng": "cat",
+      "uz": "mushuk"
+    },
+    {
+      "eng": "dog",
+      "uz": "it"
+    },
+    {
+      "eng": "egg",
+      "uz": "tuxum"
+    },
+    {
+      "eng": "fish",
+      "uz": "baliq"
+    },
+    {
+      "eng": "girl",
+      "uz": "qiz"
+    },
+    {
+      "eng": "house",
+      "uz": "uy"
+    },
+    {
+      "eng": "ice",
+      "uz": "muz"
+    },
+    {
+      "eng": "juice",
+      "uz": "sharbat"
+    },
+    {
+      "eng": "key",
+      "uz": "kalit"
+    },
+    {
+      "eng": "lion",
+      "uz": "arslon"
+    },
+    {
+      "eng": "man",
+      "uz": "erkak"
+    },
+    {
+      "eng": "night",
+      "uz": "tun"
+    },
+    {
+      "eng": "orange",
+      "uz": "apelsin"
+    },
+    {
+      "eng": "pen",
+      "uz": "ruchka"
+    },
+    {
+      "eng": "queen",
+      "uz": "qirolicha"
+    },
+    {
+      "eng": "rain",
+      "uz": "yomg'ir"
+    },
+    {
+      "eng": "sun",
+      "uz": "quyosh"
+    },
+    {
+      "eng": "tree",
+      "uz": "daraxt"
+    }
+  ],
+  "A2": [  ],
+  "B1": [  ],
+  "B2": [  ],
+  "C1": [  ],
+  "C2": [  ]
+}
