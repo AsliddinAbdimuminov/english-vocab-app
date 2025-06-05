@@ -81,6 +81,29 @@ document.getElementById("closeStatsBtn").onclick = function() {
   document.getElementById("statsModal").classList.add("hidden");
 };
 
+// Sign up
+document.getElementById("signupBtn").onclick = function() {
+  const phone = document.getElementById("phoneInput").value.trim();
+  const email = document.getElementById("emailInput").value.trim();
+  if (!phone || !email) {
+    alert("Telefon raqam va e-pochta kiriting.");
+    return;
+  }
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(email)) {
+    alert("E-pochta noto'g'ri.");
+    return;
+  }
+  localStorage.setItem("user", JSON.stringify({ phone, email }));
+  document.getElementById("signupModal").classList.add("hidden");
+};
+
+window.addEventListener("load", function() {
+  if (!localStorage.getItem("user")) {
+    document.getElementById("signupModal").classList.remove("hidden");
+  }
+});
+
 // Lug‘at (Dictionary)
 document.getElementById("dictionaryBtn").onclick = function() {
   let html = "<h2>So‘zlar ro‘yxati</h2><ul>";
