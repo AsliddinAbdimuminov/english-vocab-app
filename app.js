@@ -16,9 +16,22 @@ let favoriteWords = JSON.parse(localStorage.getItem("favoriteWords") || "[]");
 let hardWords = JSON.parse(localStorage.getItem("hardWords") || "[]");
 let reviewMode = null;
 let motivators = [
-  "Zo'r! Davom eting!", "Barakalla!", "Ajoyib!", "Shunchaki super!", "Muvaffaqiyat!", 
+  "Zo'r! Davom eting!", "Barakalla!", "Ajoyib!", "Shunchaki super!", "Muvaffaqiyat!",
   "Qoyil!", "Yashang!", "Mukammal!", "A'lo!"
 ];
+
+// Login
+document.getElementById("loginBtn").onclick = login;
+document.getElementById("loginPass").addEventListener("keydown", e => { if (e.key === "Enter") login(); });
+function login() {
+  const user = document.getElementById("loginUser").value.trim();
+  const pass = document.getElementById("loginPass").value;
+  if (user === "user" && pass === "1234") {
+    document.getElementById("loginScreen").style.display = "none";
+  } else {
+    document.getElementById("loginError").innerText = "Noto‘g‘ri login yoki parol";
+  }
+}
 
 // Speech Recognition
 if ('webkitSpeechRecognition' in window) {
