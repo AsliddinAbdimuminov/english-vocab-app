@@ -28,6 +28,9 @@
     #progressText { text-align: right; font-size: 1rem; margin-top: 2px; }
     #dictionaryModal { position: fixed; left:0; top:0; width:100vw; height:100vh; background: rgba(0,0,0,0.88); z-index: 1000; display: flex; align-items: center; justify-content: center; }
     #dictionaryModal .modal-inner { background: #fff; color: #222; padding: 2rem; border-radius: 2rem; max-width: 90vw; max-height: 80vh; overflow: auto; }
+    .modal-screen { position: fixed; left:0; top:0; width:100vw; height:100vh; background: rgba(0,0,0,0.9); display:flex; align-items:center; justify-content:center; z-index:2000; }
+    .login-box { background:#222; padding:2rem; border-radius:1rem; text-align:center; width:90%; max-width:400px; }
+    .login-box input { width:100%; padding:8px; margin-bottom:0.5rem; font-size:1rem; border-radius:6px; border:none; }
     .light-mode { background: #fff !important; color: #222 !important; }
     .light-mode .main, .light-mode .side { background: #fafafa !important; color: #222 !important; }
     .light-mode .word { color: #0af; }
