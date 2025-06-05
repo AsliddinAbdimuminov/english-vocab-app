@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>User Registration</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 400px; margin: auto; padding-top: 40px; }
+    input { display: block; width: 100%; padding: 8px; margin: 8px 0; }
+    button { padding: 10px 20px; }
+  </style>
+</head>
+<body>
+  <h2>Register</h2>
+  <input id="regUser" placeholder="Username">
+  <input id="regPass" type="password" placeholder="Password">
+  <button onclick="register()">Register</button>
+
+  <h2>Login</h2>
+  <input id="logUser" placeholder="Username">
+  <input id="logPass" type="password" placeholder="Password">
+  <button onclick="login()">Login</button>
+
+  <div id="message" style="margin-top:15px;font-weight:bold;"></div>
+
+<script>
+async function register() {
+  const res = await fetch('/register', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      username: document.getElementById('regUser').value,
+      password: document.getElementById('regPass').value
+    })
+  });
+  const data = await res.json();
+  document.getElementById('message').textContent = data.error || data.status;
+}
+
+async function login() {
+  const res = await fetch('/login', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      username: document.getElementById('logUser').value,
+      password: document.getElementById('logPass').value
+    })
+  });
+  const data = await res.json();
+  document.getElementById('message').textContent = data.error || data.status;
+}
+</script>
+</body>
+</html>
